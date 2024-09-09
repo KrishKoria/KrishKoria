@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://my-super-awesome-portfolio.vercel.app/](https://my-super-awesome-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.krishkoria.com/](www.krishkoria.com)
 
 - 💬 Ask me about **React, Node.js, Flutter, Kotlin**
 
