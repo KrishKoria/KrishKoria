@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Koria</h1>
-<h3 align="center">I'm a Computer Science student from IIIT Pune, specializing in full-stack development and robotics. Proficient in languages and frameworks like C++, Java, React.js, and Node.js, I am passionate about coding, continuous learning, and contributing to open-source projects. Let's create something amazing together!</h3>
-
-<p align="left"> <a href="https://twitter.com/theindianjewel1" target="blank"><img src="https://img.shields.io/twitter/follow/theindianjewel1?logo=twitter&style=for-the-badge" alt="theindianjewel1" /></a> </p>
+<p align="justify">I am a B.Tech Computer Science student at IIIT Pune, passionate about creating scalable applications and intuitive user experiences. I thrive on leveraging AI, cloud computing, and robotics to solve complex problems and build impactful technology for the future. </h3>
 
 # 💫 About Me:
 <!---- 🔭 I’m currently working on [R.O.F.I.E.S Website](https://github.com/KrishKoria/Rofies-WebsiteV2) -->
@@ -11,7 +9,6 @@
 - 💬 Ask me about **Next.js, Flutter, Kotlin**
 
 - 📫 How to reach me **krishkoria2004@gmail.com**
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_koria) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishkoria) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/THEINDIANJEWEL) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/THEINDIANJEWEL1) 
