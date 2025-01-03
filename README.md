@@ -6,7 +6,7 @@
 # 💫 About Me:
 <!---- 🔭 I’m currently working on [R.O.F.I.E.S Website](https://github.com/KrishKoria/Rofies-WebsiteV2) -->
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **GoLang**
 
 - 💬 Ask me about **Next.js, Flutter, Kotlin**
 
