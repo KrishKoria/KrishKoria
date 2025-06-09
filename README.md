@@ -29,7 +29,7 @@
 
 ## Boot.dev
 <p align="center">
-  <a href="https://www.boot.dev/u/voidjewel"
+  <a href="https://www.boot.dev/u/voidjewel">
     <img src="https://api.boot.dev/v1/users/public/58a9f5c8-5393-488c-8194-49397b659b4f/thumbnail">
   </a>
 </p>
