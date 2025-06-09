@@ -25,8 +25,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
 <br clear="both">
+
+## Boot.dev
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/58a9f5c8-5393-488c-8194-49397b659b4f/thumbnail" >
+</p>
 
 
 <img src="https://raw.githubusercontent.com/KrishKoria/KrishKoria/output/snake.svg" alt="Snake animation" />
