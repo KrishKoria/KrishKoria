@@ -106,8 +106,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sooty-phi.vercel.app/api?username=KrishKoria&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats-nu-henna.vercel.app
-/?user=KrishKoria&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats-nu-henna.vercel.app/?user=KrishKoria&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
