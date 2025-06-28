@@ -54,12 +54,6 @@
 </tr>
 </table>
 
-- 🌱 I’m currently learning **GoLang**
-
-- 💬 Ask me about **Next.js, Flutter, Kotlin**
-
-- 📫 How to reach me **krishkoria2004@gmail.com**
-
 ## 🌐 Connect with me
 
 <p align="center">
@@ -111,16 +105,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishKoria&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishKoria&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sooty-phi.vercel.app/api?username=KrishKoria&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats-nu-henna.vercel.app
+/?user=KrishKoria&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishKoria&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-sooty-phi.vercel.app/api/top-langs/?username=KrishKoria&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishKoria&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph-amber.vercel.app/graph?username=KrishKoria&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
 </div>
 
 ## 🏆 GitHub Trophies
