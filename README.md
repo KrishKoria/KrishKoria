@@ -154,6 +154,4 @@
 <div align="center">
   <h3>💙 Thank you for visiting my profile!</h3>
   <p>Feel free to connect with me for collaborations, discussions, or just to say hi! 😊</p>
-  
-  <img src="https://visitcount.itsvg.in/api?id=KrishKoria&icon=0&color=0" alt="Profile Visit Counter" />
 </div>
