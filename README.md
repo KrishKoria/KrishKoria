@@ -1,64 +1,65 @@
 <div align="center">
-  <h1>Hi 👋, I'm Krish Koria</h1>
-  <h3>Passionate Computer Science Student | Full-Stack Developer | AI Enthusiast</h3>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coding GIF" />
+  <h1>🚀 Krish Koria: Code Wizard & AI Alchemist 🚀</h1>
+  <h3>Full-Stack Sorcerer | AI Innovator | Building Tomorrow's Tech Today</h3>
   
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=B.Tech+CS+%40+IIIT+Pune;Full-Stack+Developer;AI+%26+Robotics+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Igniting+Innovation+with+Code;From+Pixels+to+AI+Realms;B.Tech+CS+@+IIIT+Pune;Full-Stack+Developer+Extraordinaire;AI+%26+Robotics+Visionary" alt="Epic Typing SVG" />
   </p>
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KrishKoria&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/KrishKoria?style=flat-square&color=blue&labelColor=gray" alt="GitHub Followers" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=KrishKoria&color=00FF00&style=plastic&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/KrishKoria?style=plastic&color=FF00FF&labelColor=000000" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/Superpower-AI%20Magic-FFD700?style=plastic&logo=sparkles" alt="Superpower" />
   </p>
 </div>
 
 <p align="center">
-  🚀 I'm a passionate Computer Science student at IIIT Pune who loves creating scalable applications and intuitive user experiences. I thrive on leveraging AI, cloud computing, and robotics to solve complex problems and build impactful technology for the future.
+  🌌 Dive into my universe: A Computer Science trailblazer at IIIT Pune, conjuring scalable apps, mind-bending AI, and robotic wonders. I'm not just coding – I'm architecting the future, one line at a time. Let's collaborate and launch ideas into orbit! 🚀
 </p>
 
-## 💫 About Me
+## 🌟 Cosmic Profile Highlights
 
-<table>
+<table align="center" style="border: none; background: linear-gradient(135deg, #1a1b27, #0d1117); border-radius: 15px; padding: 20px; box-shadow: 0 0 20px rgba(0, 255, 153, 0.5);">
 <tr>
-<td width="50%">
+<td width="50%" style="border: none;">
 
-### 🚀 Current Focus
+### 🔥 Ignition Points
+- 🌱 **Mastering:** GoLang, Cloud Architectures, & Quantum Computing Basics
+- 🔭 **Crafting:** AI-Driven Web Realms & Robotic Companions
+- 🎯 **Mission:** Revolutionize Open-Source with Groundbreaking Contributions
+- 🤝 **Superpower:** Turning Coffee into Code & Ideas into Reality
 
-- 🌱 **Learning:** GoLang & Cloud Architecture
-- 🔭 **Working on:** AI-powered web applications
-- 🎯 **Goal:** Contributing to open-source projects
-
-### 💬 Ask me about
-
-- **Frontend:** Next.js, React, Flutter
-- **Backend:** Node.js, Express, GoLang
-- **Mobile:** Flutter, Kotlin
-- **AI/ML:** Python, TensorFlow
+### 💬 Warp-Speed Q&A
+- **Frontend Mastery:** Next.js, React, Flutter – Building Interfaces that Wow!
+- **Backend Wizardry:** Node.js, Express, GoLang – Servers that Scale to Infinity
+- **Mobile Magic:** Flutter, Kotlin – Apps that Fly on Any Device
+- **AI/ML Arsenal:** Python, TensorFlow – Predicting the Future, One Model at a Time
 
 </td>
-<td width="50%">
+<td width="50%" style="border: none;">
 
-### 📫 Let's Connect
+### 📡 Beam Me Up!
+- **Email Portal:** krishkoria2004@gmail.com
+- **Base Station:** Pune, India 🇮🇳
+- **Status:** Open for Epic Collaborations, Internships, & Tech Adventures
+- **Fun Fact:** I've coded more lines than there are stars in the Milky Way (okay, maybe not, but close!)
 
-- **Email:** krishkoria2004@gmail.com
-- **Location:** Pune, India 🇮🇳
-- **Availability:** Open to collaborations & internships
-
-### 🏆 Quick Stats
-
-- 🎓 B.Tech CS @ IIIT Pune
-- 💻 2+ years of coding experience
-- 🌟 Passionate about AI & Robotics
+### 🏅 Achievement Unlocked
+- 🎓 B.Tech CS @ IIIT Pune – Level Up in Progress
+- 💻 2+ Years of Digital Sorcery
+- 🌟 Obsessed with AI, Robotics, & Pushing Tech Boundaries
+- 🛡️ Certified in Cloud Conjuring & AI Alchemy
 
 </td>
 </tr>
 </table>
 
-## 🌐 Connect with me
+## 🌐 Quantum Connections
 
 <p align="center">
   <a href="https://instagram.com/krish_koria">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Gradient?logo=instagram&logoColor=white&style=for-the-badge&color=linear-gradient(45deg,%23f09433,%23e6683c,%23dc2743,%23cc2366,%23bc1888)" alt="Instagram" />
   </a>
   <a href="https://reddit.com/user/THEINDIANJEWEL">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
@@ -69,83 +70,81 @@
   <a href="mailto:krishkoria2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://linkedin.com/in/krish-koria">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> <!-- Added LinkedIn for extra connectivity -->
+  </a>
 </p>
 
-## 💻 Tech Stack
+## ⚙️ Tech Arsenal: Weapons of Mass Innovation
 
-### Languages
+### Core Programming Elements
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Golang](https://img.shields.io/badge/go-%2308667e.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+### Interface & Mobility Forges
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Frontend & Mobile
+### Backend Engines & Data Vaults
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### AI & Cloud Superchargers (New Additions for Flash!)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-212525?style=for-the-badge&logo=modal&logoColor=rgb(83%2C%20214%2C%2096))
+![Inngest](https://img.shields.io/badge/Inngest-212525?style=for-the-badge&logo=inngest)
+![Pytorch](https://img.shields.io/badge/Pytorch-222222?style=for-the-badge&logo=pytorch)
 
-### Backend & Databases
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23ff4438.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-## 📊 GitHub Analytics
+## 📈 Galactic GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-sooty-phi.vercel.app/api?username=KrishKoria&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats-l1st.vercel.app/?user=KrishKoria&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sooty-phi.vercel.app/api?username=KrishKoria&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 0, 255, 0.3);" />
+  <img src="https://github-readme-streak-stats-l1st.vercel.app/?user=KrishKoria&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sooty-phi.vercel.app/api/top-langs/?username=KrishKoria&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-sooty-phi.vercel.app/api/top-langs/?username=KrishKoria&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 165, 0, 0.3);" />
 </div>
+
+## 🏆 Trophy Vault: Galactic Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph-amber.vercel.app/graph?username=KrishKoria&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KrishKoria&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 0 0 25px rgba(255, 0, 0, 0.4);" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🔮 Mystic Dev Wisdom
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrishKoria&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="border-radius: 8px; box-shadow: 0 0 10px rgba(255, 255, 0, 0.6);" />
 </div>
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-## 🎓 Certifications & Learning
+## 🎖️ Badges of Honor & Knowledge Quests
 
 <div align="center">
   <a href="https://www.boot.dev/u/voidjewel">
-    <img src="https://api.boot.dev/v1/users/public/58a9f5c8-5393-488c-8194-49397b659b4f/thumbnail" alt="Boot.dev Profile" />
+    <img src="https://api.boot.dev/v1/users/public/58a9f5c8-5393-488c-8194-49397b659b4f/thumbnail" alt="Boot.dev Profile" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0, 255, 255, 0.7);" />
   </a>
 </div>
 
-## 🐍 Contribution Snake
+## 🐉 Contribution Dragon: Breathing Fire into Code
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KrishKoria/KrishKoria/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/KrishKoria/KrishKoria/output/snake.svg" alt="Snake animation" style="filter: drop-shadow(0 0 10px #00FF00);" />
 </div>
 
 ---
-
-<div align="center">
-  <h3>💙 Thank you for visiting my profile!</h3>
-  <p>Feel free to connect with me for collaborations, discussions, or just to say hi! 😊</p>
-</div>
