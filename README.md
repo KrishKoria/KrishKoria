@@ -10,7 +10,6 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=KrishKoria&color=00FF00&style=plastic&label=Profile+Views" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/KrishKoria?style=plastic&color=FF00FF&labelColor=000000" alt="GitHub Followers" />
-    <img src="https://img.shields.io/badge/Superpower-AI%20Magic-FFD700?style=plastic&logo=sparkles" alt="Superpower" />
   </p>
 </div>
 
