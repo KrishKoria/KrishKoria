@@ -12,7 +12,6 @@ Previously interned at **[Dobr.AI](https://dobr.ai)** (video processing systems)
 
 ## Currently
 
-- Building **AutoWeave** — _details coming soon_
 - Open to collaborations and interesting conversations
 
 ---
