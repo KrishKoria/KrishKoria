@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Krish Koria, AI Engineer">
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="#0a0905" stroke="#2a261d" stroke-width="2"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" letter-spacing="3" fill="#e8a33d">
+    <text x="64" y="86">AI ENGINEER · INDIA</text>
+  </g>
+  <text x="62" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#f4efe1" letter-spacing="-1.5">Krish Koria</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#9a9384">
+    <text x="64" y="198">I build LLM agents, and the evaluation and</text>
+    <text x="64" y="228">tracing that tell you when to trust them.</text>
+  </g>
+  <text x="64" y="270" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f4efe1" opacity="0.85">Python · LangGraph · Databricks · MLflow · FastAPI · Next.js</text>
+
+  <rect x="740" y="56" width="400" height="222" rx="12" fill="#15130e" stroke="#2a261d"/>
+  <circle cx="764" cy="80" r="5" fill="#2a261d"/><circle cx="782" cy="80" r="5" fill="#2a261d"/><circle cx="800" cy="80" r="5" fill="#2a261d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15">
+    <text x="764" y="126"><tspan fill="#e8a33d">$</tspan><tspan fill="#f4efe1"> eval --judges sonnet,gpt,gemini</tspan></text>
+    <text x="764" y="168" fill="#9a9384">questions</text><text x="930" y="168" fill="#f4efe1">1,000+</text><text x="764" y="198" fill="#9a9384">groundedness</text><text x="930" y="198" fill="#f4efe1">87% → 97%</text><text x="764" y="228" fill="#9a9384">cost / 100 q</text><text x="930" y="228" fill="#f4efe1">~$0.30</text><text x="764" y="258" fill="#9a9384">verdict</text><text x="930" y="258" fill="#7cc47f">✓ pass</text>
+  </g>
+  <rect x="990" y="243" width="9" height="17" fill="#e8a33d">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
